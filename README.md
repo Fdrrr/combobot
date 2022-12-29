@@ -10,4 +10,4 @@ This bot also has several utility functions, such as `download`, which downloads
 
 But beware! This bot uses the `requests` and `BeautifulSoup` libraries to scrape web pages and extract combo lists. While this is a powerful tool for obtaining combo lists, it is important to remember that scraping websites without permission can be considered illegal in some cases. Be sure to respect the terms of use for any websites you scrape, and always use your powers for good (or at least, for legal and ethical purposes).
 
-Overall, this Discord Combo Scraper Bot is a handy tool for anyone looking to quickly and easily obtain combo lists. Whether you're a seasoned pro or new to the game, this bot has something to offer. So go ahead and give it a try - you won't be disappointed! 💪💻🤖```
+Overall, this Discord Combo Scraper Bot is a handy tool for anyone looking to quickly and easily obtain combo lists. Whether you're a seasoned pro or new to the game, this bot has something to offer. So go ahead and give it a try - you won't be disappointed! 💪💻🤖
